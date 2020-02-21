@@ -1,6 +1,6 @@
 {
   "name": "pm-exec",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Execute whichever package manager is currently running",
   "main": "dist/index.js",
   "bin": {
